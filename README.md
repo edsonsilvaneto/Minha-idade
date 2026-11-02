@@ -1,2 +1,2 @@
 # Minha-idade
-app java que vai mostrar a minha idade atual
+Nesse repositório testei como utilizar o git + GitHub, foi utilizado a IDE IntelliJ para aprendizado, além do próprio Git
